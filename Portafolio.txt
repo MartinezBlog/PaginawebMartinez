@@ -1,0 +1,63 @@
+	<section class="portafolio">
+				<div class="contenedor">
+					<h2 class="titulo">Portafolio</h2>
+					<div class="galeria-port">
+						<div class="imagen-port">
+							<img src="img/img23.jpg" alt="">
+							<div class="hover-galeria">
+								<img src="img/icono1.png" alt="">
+								<p>En Tendencia</p>
+							</div>
+						</div>
+						<div class="imagen-port">
+							<img src="img/img4.jpg" alt="">
+							<div class="hover-galeria">
+								<img src="img/icono1.png" alt="">
+								<p>En Tendencia</p>
+							</div>
+						</div>
+						<div class="imagen-port">
+							<img src="img/img25.jpg" alt="">
+							<div class="hover-galeria">
+								<img src="img/icono1.png" alt="">
+								<p>En Tendencia</p>
+							</div>
+						</div>
+						<div class="imagen-port">
+							<img src="img/img37.jpg" alt="">
+							<div class="hover-galeria">
+								<img src="img/icono1.png" alt="">
+								<p>En Tendencia</p>
+							</div>
+						</div>
+						<div class="imagen-port">
+							<img src="img/img27.jpg" alt="">
+							<div class="hover-galeria">
+								<img src="img/icono1.png" alt="">
+								<p>En Tendencia</p>
+							</div>
+						</div>
+						<div class="imagen-port">
+							<img src="img/img29.jpg" alt="">
+							<div class="hover-galeria">
+								<img src="img/icono1.png" alt="">
+								<p>En Tendencia</p>
+							</div>
+						</div>
+						<div class="imagen-port">
+							<img src="img/img3.jpg" alt="">
+							<div class="hover-galeria">
+								<img src="img/icono1.png" alt="">
+								<p>En Tendencia</p>
+							</div>
+						</div>
+						<div class="imagen-port">
+							<img src="img/img2.jpg" alt="">
+							<div class="hover-galeria">
+								<img src="img/icono1.png" alt="">
+								<p>En Tendencia</p>
+							</div>
+						</div>
+					</div>
+				</div>	
+			</section>
